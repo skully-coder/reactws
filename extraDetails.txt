@@ -1,0 +1,20 @@
+DAY 1:
+
+React logo: 
+https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png
+
+Day 1 default image for cards:
+https://b.zmtcdn.com/data/pictures/6/100756/6291da6979a46da04f4718bb79111160.jpg
+
+emoji
+👍
+👎
+
+
+DAY 2:
+
+Zomato API link:
+https://developers.zomato.com/api
+
+"No image found" default img:
+https://s3-ap-southeast-1.amazonaws.com/upcode/static/default-image.jpg
